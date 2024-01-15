@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3d4d40b6b79e3e342a3684676d762336
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startTile: {instanceID: 0}
+  - tile0: {instanceID: 0}
+  - tile1: {instanceID: 0}
+  - tile2: {instanceID: 0}
+  - tile3: {instanceID: 0}
+  - tile4: {instanceID: 0}
+  - tile5: {instanceID: 0}
+  - tile6: {instanceID: 0}
+  - tile7: {instanceID: 0}
+  - tile8: {instanceID: 0}
+  - tile9: {instanceID: 0}
+  - tile10: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
